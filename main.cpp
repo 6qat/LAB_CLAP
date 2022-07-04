@@ -6,8 +6,8 @@ static const constexpr clap_version m = CLAP_VERSION;
 
 static const clap_plugin_descriptor_t s_my_plug_desc = {
 	.clap_version = CLAP_VERSION_INIT,
-	.id = "com.your-company.YourPlugin",
-	.name = "Plugin Name",
+	.id = "net.6qat.MegaPlugin",
+	.name = "6qat's Mega Plugin",
 	.vendor = "Vendor",
 	.url = "https://your-domain.com/your-plugin",
 	.manual_url = "https://your-domain.com/your-plugin/manual",
