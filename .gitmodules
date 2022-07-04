@@ -1,0 +1,9 @@
+[submodule "clap"]
+	path = clap
+	url = https://github.com/free-audio/clap
+[submodule "clap-helpers"]
+	path = clap-helpers
+	url = https://github.com/free-audio/clap-helpers
+[submodule "Catch2"]
+	path = Catch2
+	url = https://github.com/catchorg/Catch2
